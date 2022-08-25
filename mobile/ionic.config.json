@@ -1,0 +1,7 @@
+{
+  "name": "todos-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
